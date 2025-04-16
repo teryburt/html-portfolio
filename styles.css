@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'adihausDin';
+    font-family: 'adihausdin';
     src: url('./assets/adihausDin.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
@@ -7,7 +7,7 @@
 
 /* Apply the custom font */
 body {
-    font-family: 'adihausDin', sans-serif;
+    font-family: 'adihausdin', sans-serif;
 }
 
 
